@@ -46,7 +46,8 @@ Run the project:
 
 ## Screenshots
 
-![App Screenshot]("C:\Users\Loki\Pictures\Screenshots\Screenshot 2024-05-10 140957.png")
+![App Screenshot]("![Screenshot 2024-05-10 140957](https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024/assets/133412331/5ab770e2-40fd-46a7-a592-2dcf48fac676)
+")
 
 
 ## Authors
