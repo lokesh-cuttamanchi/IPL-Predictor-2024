@@ -46,8 +46,8 @@ Run the project:
 
 ## Screenshots
 
-![App Screenshot]("![Screenshot 2024-05-10 140957](https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024/assets/133412331/5ab770e2-40fd-46a7-a592-2dcf48fac676)
-")
+![Screenshot 2024-05-10 140957](https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024/assets/133412331/6d20046d-c78b-4be1-8b23-3cf2aaafe241)
+
 
 
 ## Authors
